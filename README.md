@@ -1,5 +1,7 @@
 # :rocket:Vagrant установка Zabbix и PostgreSQL:
 
+**Notice:** Учебный проект, который специально выполнялся в shell, без иных средств автоматизации.
+
 :gear:Создает две ВМ (Ubuntu 22.04 LTS):
 
 **zabbix_serv** - Zabbix Version: 7.0, Web Server: Nginx, PHP Version: 8.1
